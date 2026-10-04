@@ -2,4 +2,4 @@
 
 <https://github.com/Zodiac-Innovations/AetherCircleUIWebsite>
 
-Public website for the AetherCircle immersive application framework.
+Official website for AetherCircle, the open-source Swift framework for building immersive application across Apple Vision Pro and Meta Quest platforms.
